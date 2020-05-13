@@ -27,7 +27,7 @@ eureka:
   
  ---
  
- server:
+server:
   port: 6001 # 服务端口
 spring: 
   profiles: prod # 开发环境 

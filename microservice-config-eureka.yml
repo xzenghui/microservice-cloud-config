@@ -25,7 +25,7 @@ eureka:
   server:
     enable-self-preservation: false # 禁用保护机制（开发过程中使用）
   
- ---
+---
  
 server:
   port: 6001 # 服务端口
